@@ -1,0 +1,1690 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <!--<meta http-equiv="X-UA-Compatible" content="IE=edge">-->
+	
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="Run your NFL Football Pool with us! Hosting Pick 'Em, Survivor, and Confidence Pools, RunYourPool is a premier sports pool hosting and management service." />
+	<meta name="keywords" content="nfl pool, football pool, nfl football pool, survivor pools, confidence, point spread, nfl survivor, ncaa tournament, ncaa basketball, march madness pool, mens basketball pool, bracket, brackets, ncaa brackets, college basketball, office pools, office pool, run pool" />
+	<meta name="robots" content="index,follow" />
+    <meta name="author" content="">
+    <link href="/favicon.ico" rel="shortcut icon" />
+	<link href="/images/apple-touch-icon.png"  rel="apple-touch-icon"/>
+    <title>Run your Football, March Madness, Baseball, Golf, and other pools at RunYourPool.com</title>
+	
+    <!-- Bootstrap core CSS -->
+	<link href="/bootstrap3.3.7/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="/assets/themes/paperclip/css/main.css?r=11" rel="stylesheet">
+
+    <!-- Resources -->
+    <link rel="stylesheet" type="text/css" href="/assets/plugins/font-awesome/css/font-awesome.min.css">
+    
+    
+    
+    <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700|Ubuntu:300,400,500,700' rel='stylesheet' type='text/css'>
+    
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+	
+	<style>	
+	
+	@media (min-width:992px) {
+		.branding-custom.navbar-default {background-color: #ff9900 !important}
+		.branding-custom.navbar-default .navbar-nav>li>a:focus, .branding-custom.navbar-default .navbar-nav>li>a:hover,.branding-custom.navbar-default .navbar-nav > li > a {color:#FFFFFF;}
+	}
+	@media (max-width:992px) {
+	.branding-custom .navbar-header {background-color: #ff9900 !important}
+	}
+	
+	.navbar-default .navbar-toggle {border-color:#bbb;background-color:#fff}
+	#leagueName {color:#FFFFFF !important;}
+
+	
+
+  	</style>
+  </head>
+  <body>
+
+    <!-- Navigation -->
+    <div class="navbar navbar-default navbar-fixed-top branding-custom" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+		  <div class="logo-container">
+			  <a class="navbar-brand" href="http://www.runyourpool.com/myaccount.cfm"><img src="//s3.amazonaws.com/league.runyourpool.com/customLogos/75503.gif" alt="..."></a>
+		  </div>
+		</div>
+		
+		<div class="menu-container">
+			  
+				<div id="leagueName">Pool Name: <b> Bet The Board Podcast</b></div>
+			    <div class=" btn btn-main btn-sm btn-login dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="max-width: 145px;"><i class="fa fa-user"></i> 
+				<span class="username"> @NBA_ComputerM...</span>
+				<b class="caret"></b></div>
+				
+	<style>
+	
+	.recent a {height:50px;}
+	.recent .close {float:right;position:absolute;right:15px;vertical-align:top;padding:3px;}
+	.recent img {display:inline-block;vertical-align:top;margin-top:8px;margin-right:10px;width:20px;}
+	.recentHead {padding:8px 20px;border-bottom:solid 1px #eeeeee;text-align:left;font-weight:bold;font-size:12px;color:#666666;}
+	.dropdown-menu >  li.recent > a:before {vertical-align:40%;}
+	.dropdown-menu >  li.recent.all > a:before {vertical-align:0%}
+	.dropdown-menu >  li.recent.all {background-color:#f0f0f0;border-radius:0px 0px 4px 4px;}
+	.dropdown-menu >  li.recent.all a {padding-top:13px;padding-bottom:13px;border-radius:0px 0px 4px 4px;}
+	.dropdown-menu >  li.recent.all i {color:#1f5f3b;margin-top:-18px;margin-right:10px;}
+	.pool-name {font-size:15px;color:#333333;}
+	.pool-name-wrapper {display:inline-block;}
+	.pool-type {font-size:12px;color:#777777;line-height:11px;}
+	.hideFade {visibility: hidden;opacity: 0;height:0px;transition: visibility 0s .3s, opacity .3s linear, height .3s linear;	}
+	 
+
+}
+	</style>
+	<ul class="recent-wrapper dropdown-menu">
+	<li style="padding:10px;border-bottom:solid 1px #eeeeee;background-color:#f0f0f0;overflow-x:visible;white-space:nowrap;">
+	<div style="margin-left:10px;margin-right:7px;width:45px;display:inline-block;">
+		<i class="fa fa-user fa-4x" style="vertical-align:bottom;"></i>
+	</div>
+	<div style="display:inline-block;padding-left:10px;">
+		<div><span style="color:#000000;font-weight:bold;">Name:</span> Jim Mcguiness</div>
+		<div style="white-space:nowrap;"><span style="color:#000000;font-weight:bold;">Username:</span>  @NBA_ComputerMan</div>
+		<div><a href="/member_edit.cfm" style="text-decoration:underline;">Edit Account</a> | <a href="/logout.cfm" style="text-decoration:underline;">Log Out</a></div>
+	</div>
+	<div style="clear:both;"></div>
+	</li>
+	<li class="recentHead">Recently Accessed Pools</li>
+	<!--RECENT POOLS-->
+	
+		<li class="recent">
+		<a href="/myaccount_process.cfm?teamId=1964955&leagueCategoryId=1">
+		<img src="/images/icons/poolCategories/1.png">
+		<div class="pool-name-wrapper">
+			<div class="pool-name">Bet The Board Podcast</div>
+			<div class="pool-type">NFL Pick 'em</div>
+		</div>
+		<i class="close fa fa-times" onClick="removeRecentPool($(this),1964955,0);return false;"></i>
+		</a>
+		</li>
+		
+	<!--/RECENT POOLS-->
+	<li class="recent all">
+		<a href="/myaccount.cfm">
+		<i class="fa fa-list fa-fw"></i>
+		<div style="display:inline-block;width:200px;color:#000000">
+			<div>View All Pool Memberships</div>
+		</div>
+		</a>
+	</li>
+	</ul>
+	
+			  <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse" style="">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+		  </div>
+		
+		<link rel="stylesheet" href="/assets/css/notifications.css" />
+
+<style>
+	.messageCount {
+	    position: absolute;
+	    top: -7px;
+	    left: 80%;
+	    padding: 0px 5px;
+	    border-radius: 30px;
+	    line-height: 16px;
+	    text-align: center;
+	    font-size: 10px;
+	    border-width: 2px;
+	    border-style: solid;
+	    color: #fff;
+	    background: #3071a9 !important;
+	    border-color: #555555;
+	}
+</style>
+
+
+
+<style>
+	td {padding:3px;}
+</style>
+
+<link href="/assets/themes/paperclip/css/fullNav.css?r=1" rel="stylesheet"> 
+
+
+<!-- Everything you want hidden at 940px or less, place within here -->
+<div class="collapse navbar-collapse navbar-full"> 
+<ul class="nav navbar-nav">
+  	<li class="width12"><a href="/nfl/pickem/reports/dashboard.cfm">Dashboard</a></li>
+    <li class="dropdown width14">
+        <a href="/nfl/pickem/multiple_entries.cfm">Your Picks</a>
+		
+    </li>
+    <li class="dropdown width12">
+    	<a href="#" class="dropdown-toggle" data-toggle="dropdown">Reports <b class="caret"></b></a>
+        <ul class="dropdown-menu">
+            <li class="disabled"><a tabindex="-1" href="#"><strong>Picks & Standings</strong></a></li>
+            <li class="i"><a href="/nfl/pickem/reports/standings2.cfm">Current Standings</a></li>
+            <li class="i"><a href="/nfl/pickem/reports/picks.cfm">Pool Members' Picks</a></li>
+            <li class="i"><a href="/nfl/pickem/reports/previous_weeks.cfm">Pool Week-by-Week</a></li>
+            <li class="i"><a href="/nfl/pickem/reports/pick_distribution.cfm">Weekly Pick Distribution</a></li>
+            <li class="i"><a href="/nfl/pickem/reports/groupResults.cfm">Group Results</a></li>
+            <li class="disabled"><a tabindex="-1" href="#"><strong>Statistics</strong></a></li>
+            <li class="i"><a href="/nfl/pickem/reports/handicap.cfm">Handicapping Report</a></li>
+            <li class="i"><a href="/nfl/pickem/reports/league_stats.cfm">Pool Statistics</a></li>
+            <li class="disabled"><a tabindex="-1" href="#"><strong>NFL Results</strong></a></li>
+            <li class="i"><a href="/nfl/pickem/reports/nfl_results.cfm">NFL Results by Week</a></li>
+            <li class="i"><a href="/nfl/pickem/reports/nfl_results_byteam.cfm">NFL Results by Team</a></li>
+            <li class="disabled"><a tabindex="-1" href="#"><strong>Other</strong></a></li>
+            <li class="i"><a href="/nfl/pickem/reports/AdminPickChangeHistory.cfm">Administrator Pick Modifications</a></li>
+            <li class="i"><a href="/nfl/pickem/pool_history.cfm">Pool History</a></li>
+        </ul>
+    </li>
+    <li class="dropdown width12">
+    	<a href="#" class="dropdown-toggle" data-toggle="dropdown">Pool Info <b class="caret"></b></a>
+        <ul class="dropdown-menu">
+			<li><a href="/shared_includes/memberManagement/pool_entries.cfm">Pool Entries</a></li>
+            <li><a href="/nfl/pickem/view_pool_settings.cfm">Pool Settings</a></li>
+        </ul>
+    </li>
+     
+    
+    <li class="width16">
+    	<a href="/shared_includes/messageboard/index.cfm">Message Board </a>
+    	
+    </li>
+    
+    <li class="width12"><a href="/support">Support</a></li>
+    <li class="width4">
+    	<style>
+@media (max-width:991px) {
+	.notifications {
+		width:100%;
+		background-color:transparent !important;
+		padding-left:0px;
+		padding-top:0px;
+	}
+
+	.navbar-nav .notifications li.notification-header {border-top:solid 0px #000;}
+	.navbar-nav .notifications li.notification-footer {border-top:solid 1px #444;}
+	
+	.notifications ul.dropdown-menu {
+		padding-bottom:15px;
+		margin-left:0px !important;
+	}
+	.notifications ul.dropdown-menu,
+	.notifications .notification-header	{
+		background-color:transparent !important;
+		color:#fff !important;
+	}
+	.notifications .dropdown-menu>li>a {
+		color:#fff  !important;
+		padding: 7px 0px 7px 0px !important;
+	}
+	.notifications .dropdown-menu > li > a:before {content:'';margin-right:0px;}
+	
+	.notifications .notification-item .btn-group {
+		width:100%;
+		padding-left:0px !important;
+		height:inherit;
+	}
+		
+	.notifications .notification-item .btn-group > a,
+	.notifications .notification-item .btn-group > a:hover,
+	.notifications .notification-item .btn-group.open > a	{
+		color:#fff !important;
+		text-transform:uppercase;
+		padding-top: 10px !important;
+		padding-bottom: 10px !important;
+		display:inline-block !important;
+		padding-left:10px !important;
+		width:100%;
+		background-color:transparent !important;
+	}
+	
+	.notifications .notification-item .btn-group.open > a {
+		background:rgba(66,66,66,.7) !important;
+	}
+
+	.notifications .notification-item {
+		margin-left:0px !important;
+		top:0px;
+	}
+	
+	.notifications .notification-item .dropdown-menu {
+		padding-left:25px !important;
+		padding-right:25px  !important;
+	}
+	/*
+	.notifications .notification-header {
+		background-color:#333333 !important;
+		border-radius:6px 6px 0px 0px;
+	}
+	
+	.notifications .notification-footer	{
+		background-color:#333333 !important;
+		border-radius:0px 0px 6px 6px;
+	}
+	*/
+}
+</style>
+<div class="notifications">
+	<!-- notification: general -->
+	<div class="notification-item general">
+		<div class="btn-group dropdown">
+			<a href="#" class="dropdown-toggle" data-toggle="dropdown" style="">
+				<i class="fa fa-bell"></i> <span class="hidden-lg hidden-md pull-left" style="margin-left:5px;"> Notifications&nbsp;</span>
+				
+			</a>
+			<ul class="dropdown-menu" role="menu">
+				<li class="notification-header">
+					<em>No unread notifications</em>
+					
+					<div class="pull-right"><a href="/shared_includes/notifications/markReadAll.cfm?destURL=%2Fnfl%2Fpickem%2Fpicksheet%2Ecfm%3Fsheet%5Fid%3D1%26week%3D14">Mark all as read</a></div>
+				</li>
+				
+				<li class="notification-footer">
+					<a href="/shared_includes/notifications/NotificationHistory.cfm">View All Notifications</a>
+				</li>
+			</ul>
+		</div>
+
+	</div>
+	<!-- end notification: general -->
+
+</div>  
+    </li>
+</ul>
+</div>
+
+		
+      </div>
+    </div> <!-- / .navigation -->
+
+	<div class="wrapper">
+	
+	<div class="container">
+	 <!-- Modal -->
+<div class="modal fade" id="remoteModal" tabindex="-1" role="dialog" aria-labelledby="basicModal" aria-hidden="true">
+	<div class="modal-dialog">
+		<div class="modal-content">
+		</div> <!-- /.modal-content -->
+	</div> <!-- /.modal-dialog -->
+</div> <!-- /.modal -->
+
+
+
+<style type="text/css">
+	.homeBox {background-color:#f0f0f0;border:solid 1px #dddddd;width:46%;cursor:hand;cursor:pointer;margin-bottom:5px;padding-left:0px;border-radius:6px;}
+	.homeBox.disabled {opacity:0.5;filter:alpha(opacity=50);}
+	.awayBox {background-color:#f0f0f0;border:solid 1px #dddddd;width:46%;cursor:hand;cursor:pointer;margin-bottom:5px;padding-left:0px;border-radius:6px;}
+	.awayBox.disabled {opacity:0.5;filter:alpha(opacity=50);}
+	
+		.spreadBox {left:50%;position:absolute;margin-left:-18px;border:solid 0px #dddddd;width:35px;height:22px;margin-top:12px;font-weight:bold;text-align:center;line-height:20px;font-size:13px;}
+		@media (max-width: 525px) {
+		.spreadBox {margin-top:19px;left:50%;margin-left:-18px;}
+		}
+	
+	.bestbet {float:right;}
+	.rules li {padding-bottom:5px;}
+
+	
+	.teamName {display:inline;font-size:15px;}
+	.teamAbbr {display:none;}
+	.teamRecord {color:#888888;font-size:11px;}
+	.teamLocation {color:#888888;font-size:11px;display:block;}
+	.day {font-size:11px;text-align:center;color:#666666;}
+	.col-label {color:#666666;font-weight:bold;font-size:11px}
+	#columnHead td {padding:0px;}
+	
+	.homeBox img, .awayBox img {padding-left:10px;padding-right:10px;}
+	
+	@media (max-width: 767px) {
+		.teamName {display:inline;}
+		.homeBox img, .awayBox img {padding-left:5px;padding-right:5px;}
+	}
+	
+	@media (max-width: 525px) {
+		.teamName {display:block;}
+		.homeBox img, .awayBox img {padding-left:5px;padding-right:0px;}
+		.homeBox, .awayBox {width:43%;}
+	}
+		
+	@media (max-width: 464px) {
+		.teamName {display:none;}
+		.teamAbbr {display:block;font-weight:bold;}
+		.teamRecord {display:block;white-space:nowrap;}
+		
+	}
+	
+	@media (max-width: 364px) {
+		/*.homeBox, .awayBox {width:43%;}*/
+	}
+	
+	
+	
+	.checkbox {margin:0px;margin-bottom:-2px;}
+td {vertical-align:middle !important;}
+.checkbox label:after, 
+.radio label:after {
+    content: '';
+    display: table;
+    clear: both;
+}
+
+.checkbox .cr,
+.radio .cr {
+    position: relative;
+    display: inline-block;
+    border: 1px solid #a9a9a9;
+    border-radius: .25em;
+    width: 1.3em;
+    height: 1.3em;
+    float: left;
+    margin-right: .5em;
+}
+
+.radio .cr {
+    border-radius: 50%;
+}
+
+.checkbox .cr .cr-icon,
+.radio .cr .cr-icon {
+    position: absolute;
+    font-size: .8em;
+    line-height: 0;
+    top: 50%;
+    left: 20%;
+}
+
+.radio .cr .cr-icon {
+    margin-left: 0.04em;
+}
+
+.checkbox label input[type="checkbox"],
+.radio label input[type="radio"] {
+    display: none;
+}
+
+.checkbox label input[type="checkbox"] + .cr > .cr-icon,
+.radio label input[type="radio"] + .cr > .cr-icon {
+    transform: scale(3) rotateZ(-20deg);
+    opacity: 0;
+    transition: all .3s ease-in;
+}
+
+.checkbox label input[type="checkbox"]:checked + .cr > .cr-icon,
+.radio label input[type="radio"]:checked + .cr > .cr-icon {
+    transform: scale(1) rotateZ(0deg);
+    opacity: 1;
+}
+
+.checkbox label input[type="checkbox"]:disabled + .cr,
+.radio label input[type="radio"]:disabled + .cr {
+    opacity: .5;
+}
+</style>
+
+
+
+<script type='text/javascript'>
+    var okToClose = true;
+    function closeIt()
+    {
+      if (!okToClose )
+      {
+      return "Warning: Your picks will not be saved unless you click the 'Submit' button.";
+      }
+    }
+    window.onbeforeunload = closeIt;
+ </script>
+ 
+ 
+    
+	<h1>Enter your Week 14 Picks for Entry '@NBA_ComputerMan'</h1>
+
+    
+        
+        <div class="row">
+            <div class="col-md-7">
+            	<form action="/nfl/pickem/picksheet_process.cfm?team_id=1964955&sheet_id=1&count=15&week=14" method="post">
+					
+                    <script>
+                    function validate() {
+						var isValid = true;
+						
+                        
+                            if ($("#tiebreak").val()=="") {
+                                //alert("You must enter a tiebreak value");
+								$('#modalPickCountLabel').html('<i class="fa fa-warning fa-lg"></i>&nbsp;&nbsp; Tiebreak Value Required');
+								$('#modalPickCount .modal-body').html('<p>Your pool requires you to enter a tiebreak value.</p><p>Please enter what you predict to be the combined points scored by both teams in the game indicated.</p>');
+								$('#modalPickCount').modal('show');
+                                isValid = false;
+                            }
+                        
+							var maxPickCount = 5;
+							//Too few teams picked
+                            if($("input:radio:checked").length <5) {
+                                $('#modalPickCountLabel').html('<i class="fa fa-warning fa-lg"></i>&nbsp;&nbsp; ' + maxPickCount + ' Picks Required');
+								$('#modalPickCount .modal-body').html('<p>Your pool requires you to pick ' + maxPickCount + ' teams each week.</p><p>Please pick ' + maxPickCount + ' teams before submitting your pick sheet.</p>');
+								$('#modalPickCount').modal('show');
+								isValid = false;
+                            }
+							//Too many teams picked
+							else if ($("input:radio:checked").length > 5)
+							{
+								$('#modalPickCountLabel').html('<i class="fa fa-warning fa-lg"></i>&nbsp;&nbsp; ' + maxPickCount + ' Picks Required');
+								$('#modalPickCount .modal-body').html('<p>Your pool requires you to pick a maximum of ' + maxPickCount + ' teams each week.</p><p>To remove picks, click on the pick again so it is no longer highlighted.</p>');
+								$('#modalPickCount').modal('show');
+								isValid = false;
+							}
+						
+                        
+						if (isValid) {
+							okToClose = true;
+						}
+                        return  isValid;
+                    }
+                    
+                    function selectBox(teamSelected,teamUnselected) {
+					
+						okToClose = false;
+                        if($(":radio[value="+teamSelected+"]").attr('disabled')) {
+                            
+                        }
+                        else {
+                            //is it selected?
+                            if ($(":radio[value="+teamSelected+"]").prop('checked')==true) {
+								
+									//unselect it
+									document.getElementById("box"+teamSelected).style.backgroundColor="#f0f0f0";
+									//$(":radio[value="+teamSelected+"]").attr('checked',false); 
+									$(":radio[value="+teamSelected+"]").prop('checked',false); 
+									//$(":radio[value="+teamSelected+"]").siblings("i").attr("class","fa fa-circle-o");
+								
+                            }
+                            else {
+                                var maxPickCount = 5;
+								//make sure there are not more than 5 selected
+                                if($("input:radio:checked").length >= 5 && $(":radio[value="+teamUnselected+"]").prop('checked')==false) {										
+									//alert("You may only submit picks for 5 games. To pick a different game you will need to remove an existing pick by clicking on it.");
+									$('#modalPickCountLabel').html('<i class="fa fa-warning fa-lg"></i>&nbsp;&nbsp; Maximum Pick Count Exceeded');
+									$('#modalPickCount .modal-body').html('<p>Your pool requires you to pick ONLY ' + maxPickCount + ' teams each week.</p><p>To pick a different game, you will need to remove an existing pick by clicking on it again.</p>');
+									$('#modalPickCount').modal('show');
+								}
+                                else {
+                                    //select it
+                                    document.getElementById("box"+teamSelected).style.backgroundColor="#ffffaa";
+                                    document.getElementById("box"+teamUnselected).style.backgroundColor="#f0f0f0";
+                                    $(":radio[value="+teamSelected+"]").prop('checked',true); 
+									//$(":radio[value="+teamSelected+"]").attr('checked',true); 
+									//$(":radio[value="+teamSelected+"]").siblings("i").attr("class","fa fa-dot-circle-o");
+									//$(":radio[value="+teamUnselected+"]").siblings("i").attr("class","fa fa-circle-o");
+                                }
+                            }
+                        }
+                    }
+					
+					function validateBestBet(game_id) {
+						
+						//best bet settings not found
+						
+					}
+                    </script>
+                    
+                   
+                    
+                    <table border="0" cellpadding="0" cellspacing="0" style="width:100%;" >
+                    	<tr id="columnHead">
+						
+                        	<td>
+                            	 <div class="">
+                                    <div class="col-xs-6 text-center col-label">Favorite</div>
+                                    <div class="col-xs-6 text-center col-label">Underdog</div>
+                                </div>
+                            </td>
+							
+                        </tr>
+						
+                            <tr>
+                                <td>
+                                    <div class="day">Thursday, December 7</div>
+                                </td>
+								
+                            </tr>
+                            
+                                
+                                <tr><td>
+                                <style type="text/css">
+                                
+                                
+                                    #box25 {float:left;padding-right:20px;}
+                                    #box27 {float:right;}
+                                
+                                </style>
+                                
+                                
+                                     
+                                <div class="homeBox disabled" id="box25" onClick="selectBox(25,27)" >
+                                 <table cellspacing="0" cellpadding="0">
+                                            <tr>
+                                                <td style="display:none;">
+                                                   <input style="display:none;" type="radio" name="193" value="25"
+                                                         disabled="disabled">
+                                                </td>
+                                                <td><img src="/images/team_logos/nfl/small/25.png"></td>
+                                                <td>
+													<span class="teamName">Atlanta</span> 
+													<span class="teamAbbr">ATL</span> 
+													<span class="teamRecord">(8-5)</span>
+													<span class="teamLocation">Home</span>
+												</td>
+                                            </tr>
+                                            </table>
+                                  </div>
+                                  <div class="awayBox disabled"  id="box27" onClick="selectBox(27,25)" >
+                                   <table cellspacing="0" cellpadding="0" >
+                                            <tr>
+                                                <td style="display:none;">
+                                                   <input style="display:none;" type="radio" name="193" value="27"  
+                                                        disabled="disabled"></td>
+                                                <td><img src="/images/team_logos/nfl/small/27.png"></td>
+                                                <td>
+													<span class="teamName">New Orleans</span>
+													<span class="teamAbbr">NO</span> 
+													<span class="teamRecord">(9-4)</span>
+													<span class="teamLocation">Away</span>
+												</td>
+                                            </tr>
+										</table>
+                                  </div>
+								  
+                                   <div class="spreadBox">-1.5</div>
+                                
+                                
+							
+							</td>
+							
+							</tr>
+                            
+                            <tr>
+                                <td>
+                                    <div class="day">Sunday, December 10</div>
+                                </td>
+								
+                            </tr>
+                            
+                                
+                                <tr><td>
+                                <style type="text/css">
+                                
+                                
+                                    #box1 {float:left;padding-right:20px;}
+                                    #box2 {float:right;}
+                                
+                                </style>
+                                
+                                
+                                     
+                                <div class="homeBox" id="box1" onClick="selectBox(1,2)" >
+                                 <table cellspacing="0" cellpadding="0">
+                                            <tr>
+                                                <td style="display:none;">
+                                                   <input style="display:none;" type="radio" name="194" value="1"
+                                                        >
+                                                </td>
+                                                <td><img src="/images/team_logos/nfl/small/1.png"></td>
+                                                <td>
+													<span class="teamName">Buffalo</span> 
+													<span class="teamAbbr">BUF</span> 
+													<span class="teamRecord">(6-6)</span>
+													<span class="teamLocation">Home</span>
+												</td>
+                                            </tr>
+                                            </table>
+                                  </div>
+                                  <div class="awayBox"  id="box2" onClick="selectBox(2,1)" >
+                                   <table cellspacing="0" cellpadding="0" >
+                                            <tr>
+                                                <td style="display:none;">
+                                                   <input style="display:none;" type="radio" name="194" value="2"  
+                                                        ></td>
+                                                <td><img src="/images/team_logos/nfl/small/2.png"></td>
+                                                <td>
+													<span class="teamName">Indianapolis</span>
+													<span class="teamAbbr">IND</span> 
+													<span class="teamRecord">(3-9)</span>
+													<span class="teamLocation">Away</span>
+												</td>
+                                            </tr>
+										</table>
+                                  </div>
+								  
+                                   <div class="spreadBox">-2.5</div>
+                                
+                                
+							
+							</td>
+							
+							</tr>
+                            
+                                
+                                <tr><td>
+                                <style type="text/css">
+                                
+                                
+                                    #box29 {float:right;}
+                                    #box23 {float:left;padding-right:20px;}
+                                
+                                </style>
+                                
+                                
+                                     
+                                <div class="homeBox" id="box29" onClick="selectBox(29,23)" >
+                                 <table cellspacing="0" cellpadding="0">
+                                            <tr>
+                                                <td style="display:none;">
+                                                   <input style="display:none;" type="radio" name="195" value="29"
+                                                        >
+                                                </td>
+                                                <td><img src="/images/team_logos/nfl/small/29.png"></td>
+                                                <td>
+													<span class="teamName">Carolina</span> 
+													<span class="teamAbbr">CAR</span> 
+													<span class="teamRecord">(8-4)</span>
+													<span class="teamLocation">Home</span>
+												</td>
+                                            </tr>
+                                            </table>
+                                  </div>
+                                  <div class="awayBox"  id="box23" onClick="selectBox(23,29)" style="background-color:#ffffaa;">
+                                   <table cellspacing="0" cellpadding="0" >
+                                            <tr>
+                                                <td style="display:none;">
+                                                   <input style="display:none;" type="radio" name="195" value="23"  
+                                                         checked ></td>
+                                                <td><img src="/images/team_logos/nfl/small/23.png"></td>
+                                                <td>
+													<span class="teamName">Minnesota</span>
+													<span class="teamAbbr">MIN</span> 
+													<span class="teamRecord">(10-2)</span>
+													<span class="teamLocation">Away</span>
+												</td>
+                                            </tr>
+										</table>
+                                  </div>
+								  
+                                   <div class="spreadBox">-2.5</div>
+                                
+                                
+							
+							</td>
+							
+							</tr>
+                            
+                                
+                                <tr><td>
+                                <style type="text/css">
+                                
+                                
+                                    #box6 {float:left;padding-right:20px;}
+                                    #box20 {float:right;}
+                                
+                                </style>
+                                
+                                
+                                     
+                                <div class="homeBox" id="box6" onClick="selectBox(6,20)" >
+                                 <table cellspacing="0" cellpadding="0">
+                                            <tr>
+                                                <td style="display:none;">
+                                                   <input style="display:none;" type="radio" name="196" value="6"
+                                                        >
+                                                </td>
+                                                <td><img src="/images/team_logos/nfl/small/6.png"></td>
+                                                <td>
+													<span class="teamName">Cincinnati</span> 
+													<span class="teamAbbr">CIN</span> 
+													<span class="teamRecord">(5-7)</span>
+													<span class="teamLocation">Home</span>
+												</td>
+                                            </tr>
+                                            </table>
+                                  </div>
+                                  <div class="awayBox"  id="box20" onClick="selectBox(20,6)" >
+                                   <table cellspacing="0" cellpadding="0" >
+                                            <tr>
+                                                <td style="display:none;">
+                                                   <input style="display:none;" type="radio" name="196" value="20"  
+                                                        ></td>
+                                                <td><img src="/images/team_logos/nfl/small/20.png"></td>
+                                                <td>
+													<span class="teamName">Chicago</span>
+													<span class="teamAbbr">CHI</span> 
+													<span class="teamRecord">(3-9)</span>
+													<span class="teamLocation">Away</span>
+												</td>
+                                            </tr>
+										</table>
+                                  </div>
+								  
+                                   <div class="spreadBox">-5.5</div>
+                                
+                                
+							
+							</td>
+							
+							</tr>
+                            
+                                
+                                <tr><td>
+                                <style type="text/css">
+                                
+                                
+                                    #box7 {float:right;}
+                                    #box22 {float:left;padding-right:20px;}
+                                
+                                </style>
+                                
+                                
+                                     
+                                <div class="homeBox" id="box7" onClick="selectBox(7,22)" >
+                                 <table cellspacing="0" cellpadding="0">
+                                            <tr>
+                                                <td style="display:none;">
+                                                   <input style="display:none;" type="radio" name="197" value="7"
+                                                        >
+                                                </td>
+                                                <td><img src="/images/team_logos/nfl/small/7.png"></td>
+                                                <td>
+													<span class="teamName">Cleveland</span> 
+													<span class="teamAbbr">CLE</span> 
+													<span class="teamRecord">(0-12)</span>
+													<span class="teamLocation">Home</span>
+												</td>
+                                            </tr>
+                                            </table>
+                                  </div>
+                                  <div class="awayBox"  id="box22" onClick="selectBox(22,7)" >
+                                   <table cellspacing="0" cellpadding="0" >
+                                            <tr>
+                                                <td style="display:none;">
+                                                   <input style="display:none;" type="radio" name="197" value="22"  
+                                                        ></td>
+                                                <td><img src="/images/team_logos/nfl/small/22.png"></td>
+                                                <td>
+													<span class="teamName">Green Bay</span>
+													<span class="teamAbbr">GB</span> 
+													<span class="teamRecord">(6-6)</span>
+													<span class="teamLocation">Away</span>
+												</td>
+                                            </tr>
+										</table>
+                                  </div>
+								  
+                                   <div class="spreadBox">-3.5</div>
+                                
+                                
+							
+							</td>
+							
+							</tr>
+                            
+                                
+                                <tr><td>
+                                <style type="text/css">
+                                
+                                
+                                    #box32 {float:left;padding-right:20px;}
+                                    #box28 {float:right;}
+                                
+                                </style>
+                                
+                                
+                                     
+                                <div class="homeBox" id="box32" onClick="selectBox(32,28)" style="background-color:#ffffaa;">
+                                 <table cellspacing="0" cellpadding="0">
+                                            <tr>
+                                                <td style="display:none;">
+                                                   <input style="display:none;" type="radio" name="198" value="32"
+                                                         checked >
+                                                </td>
+                                                <td><img src="/images/team_logos/nfl/small/32.png"></td>
+                                                <td>
+													<span class="teamName">Houston</span> 
+													<span class="teamAbbr">HOU</span> 
+													<span class="teamRecord">(4-8)</span>
+													<span class="teamLocation">Home</span>
+												</td>
+                                            </tr>
+                                            </table>
+                                  </div>
+                                  <div class="awayBox"  id="box28" onClick="selectBox(28,32)" >
+                                   <table cellspacing="0" cellpadding="0" >
+                                            <tr>
+                                                <td style="display:none;">
+                                                   <input style="display:none;" type="radio" name="198" value="28"  
+                                                        ></td>
+                                                <td><img src="/images/team_logos/nfl/small/28.png"></td>
+                                                <td>
+													<span class="teamName">San Francisco</span>
+													<span class="teamAbbr">SF</span> 
+													<span class="teamRecord">(2-10)</span>
+													<span class="teamLocation">Away</span>
+												</td>
+                                            </tr>
+										</table>
+                                  </div>
+								  
+                                   <div class="spreadBox">-2.5</div>
+                                
+                                
+							
+							</td>
+							
+							</tr>
+                            
+                                
+                                <tr><td>
+                                <style type="text/css">
+                                
+                                
+                                    #box30 {float:left;padding-right:20px;}
+                                    #box14 {float:right;}
+                                
+                                </style>
+                                
+                                
+                                     
+                                <div class="homeBox" id="box30" onClick="selectBox(30,14)" >
+                                 <table cellspacing="0" cellpadding="0">
+                                            <tr>
+                                                <td style="display:none;">
+                                                   <input style="display:none;" type="radio" name="199" value="30"
+                                                        >
+                                                </td>
+                                                <td><img src="/images/team_logos/nfl/small/30.png"></td>
+                                                <td>
+													<span class="teamName">Jacksonville</span> 
+													<span class="teamAbbr">JAC</span> 
+													<span class="teamRecord">(8-4)</span>
+													<span class="teamLocation">Home</span>
+												</td>
+                                            </tr>
+                                            </table>
+                                  </div>
+                                  <div class="awayBox"  id="box14" onClick="selectBox(14,30)" >
+                                   <table cellspacing="0" cellpadding="0" >
+                                            <tr>
+                                                <td style="display:none;">
+                                                   <input style="display:none;" type="radio" name="199" value="14"  
+                                                        ></td>
+                                                <td><img src="/images/team_logos/nfl/small/14.png"></td>
+                                                <td>
+													<span class="teamName">Seattle</span>
+													<span class="teamAbbr">SEA</span> 
+													<span class="teamRecord">(8-4)</span>
+													<span class="teamLocation">Away</span>
+												</td>
+                                            </tr>
+										</table>
+                                  </div>
+								  
+                                   <div class="spreadBox">-2.5</div>
+                                
+                                
+							
+							</td>
+							
+							</tr>
+                            
+                                
+                                <tr><td>
+                                <style type="text/css">
+                                
+                                
+                                    #box11 {float:left;padding-right:20px;}
+                                    #box12 {float:right;}
+                                
+                                </style>
+                                
+                                
+                                     
+                                <div class="homeBox" id="box11" onClick="selectBox(11,12)" style="background-color:#ffffaa;">
+                                 <table cellspacing="0" cellpadding="0">
+                                            <tr>
+                                                <td style="display:none;">
+                                                   <input style="display:none;" type="radio" name="200" value="11"
+                                                         checked >
+                                                </td>
+                                                <td><img src="/images/team_logos/nfl/small/11.png"></td>
+                                                <td>
+													<span class="teamName">Kansas City</span> 
+													<span class="teamAbbr">KC</span> 
+													<span class="teamRecord">(6-6)</span>
+													<span class="teamLocation">Home</span>
+												</td>
+                                            </tr>
+                                            </table>
+                                  </div>
+                                  <div class="awayBox"  id="box12" onClick="selectBox(12,11)" >
+                                   <table cellspacing="0" cellpadding="0" >
+                                            <tr>
+                                                <td style="display:none;">
+                                                   <input style="display:none;" type="radio" name="200" value="12"  
+                                                        ></td>
+                                                <td><img src="/images/team_logos/nfl/small/12.png"></td>
+                                                <td>
+													<span class="teamName">Oakland</span>
+													<span class="teamAbbr">OAK</span> 
+													<span class="teamRecord">(6-6)</span>
+													<span class="teamLocation">Away</span>
+												</td>
+                                            </tr>
+										</table>
+                                  </div>
+								  
+                                   <div class="spreadBox">-3.5</div>
+                                
+                                
+							
+							</td>
+							
+							</tr>
+                            
+                                
+                                <tr><td>
+                                <style type="text/css">
+                                
+                                
+                                    #box24 {float:left;padding-right:20px;}
+                                    #box21 {float:right;}
+                                
+                                </style>
+                                
+                                
+                                     
+                                <div class="homeBox" id="box24" onClick="selectBox(24,21)" >
+                                 <table cellspacing="0" cellpadding="0">
+                                            <tr>
+                                                <td style="display:none;">
+                                                   <input style="display:none;" type="radio" name="201" value="24"
+                                                        >
+                                                </td>
+                                                <td><img src="/images/team_logos/nfl/small/24.png"></td>
+                                                <td>
+													<span class="teamName">Tampa Bay</span> 
+													<span class="teamAbbr">TB</span> 
+													<span class="teamRecord">(4-8)</span>
+													<span class="teamLocation">Home</span>
+												</td>
+                                            </tr>
+                                            </table>
+                                  </div>
+                                  <div class="awayBox"  id="box21" onClick="selectBox(21,24)" >
+                                   <table cellspacing="0" cellpadding="0" >
+                                            <tr>
+                                                <td style="display:none;">
+                                                   <input style="display:none;" type="radio" name="201" value="21"  
+                                                        ></td>
+                                                <td><img src="/images/team_logos/nfl/small/21.png"></td>
+                                                <td>
+													<span class="teamName">Detroit</span>
+													<span class="teamAbbr">DET</span> 
+													<span class="teamRecord">(6-6)</span>
+													<span class="teamLocation">Away</span>
+												</td>
+                                            </tr>
+										</table>
+                                  </div>
+								  
+                                   <div class="spreadBox">-1.5</div>
+                                
+                                
+							
+							</td>
+							
+							</tr>
+                            
+                                
+                                <tr><td>
+                                <style type="text/css">
+                                
+                                
+                                    #box18 {float:right;}
+                                    #box8 {float:left;padding-right:20px;}
+                                
+                                </style>
+                                
+                                
+                                     
+                                <div class="homeBox" id="box18" onClick="selectBox(18,8)" style="background-color:#ffffaa;">
+                                 <table cellspacing="0" cellpadding="0">
+                                            <tr>
+                                                <td style="display:none;">
+                                                   <input style="display:none;" type="radio" name="202" value="18"
+                                                         checked >
+                                                </td>
+                                                <td><img src="/images/team_logos/nfl/small/18.png"></td>
+                                                <td>
+													<span class="teamName">Arizona</span> 
+													<span class="teamAbbr">ARI</span> 
+													<span class="teamRecord">(5-7)</span>
+													<span class="teamLocation">Home</span>
+												</td>
+                                            </tr>
+                                            </table>
+                                  </div>
+                                  <div class="awayBox"  id="box8" onClick="selectBox(8,18)" >
+                                   <table cellspacing="0" cellpadding="0" >
+                                            <tr>
+                                                <td style="display:none;">
+                                                   <input style="display:none;" type="radio" name="202" value="8"  
+                                                        ></td>
+                                                <td><img src="/images/team_logos/nfl/small/8.png"></td>
+                                                <td>
+													<span class="teamName">Tennessee</span>
+													<span class="teamAbbr">TEN</span> 
+													<span class="teamRecord">(8-4)</span>
+													<span class="teamLocation">Away</span>
+												</td>
+                                            </tr>
+										</table>
+                                  </div>
+								  
+                                   <div class="spreadBox">-2.5</div>
+                                
+                                
+							
+							</td>
+							
+							</tr>
+                            
+                                
+                                <tr><td>
+                                <style type="text/css">
+                                
+                                
+                                    #box10 {float:right;}
+                                    #box5 {float:left;padding-right:20px;}
+                                
+                                </style>
+                                
+                                
+                                     
+                                <div class="homeBox" id="box10" onClick="selectBox(10,5)" >
+                                 <table cellspacing="0" cellpadding="0">
+                                            <tr>
+                                                <td style="display:none;">
+                                                   <input style="display:none;" type="radio" name="203" value="10"
+                                                        >
+                                                </td>
+                                                <td><img src="/images/team_logos/nfl/small/10.png"></td>
+                                                <td>
+													<span class="teamName">Denver</span> 
+													<span class="teamAbbr">DEN</span> 
+													<span class="teamRecord">(3-9)</span>
+													<span class="teamLocation">Home</span>
+												</td>
+                                            </tr>
+                                            </table>
+                                  </div>
+                                  <div class="awayBox"  id="box5" onClick="selectBox(5,10)" >
+                                   <table cellspacing="0" cellpadding="0" >
+                                            <tr>
+                                                <td style="display:none;">
+                                                   <input style="display:none;" type="radio" name="203" value="5"  
+                                                        ></td>
+                                                <td><img src="/images/team_logos/nfl/small/5.png"></td>
+                                                <td>
+													<span class="teamName">NY Jets</span>
+													<span class="teamAbbr">NYJ</span> 
+													<span class="teamRecord">(5-7)</span>
+													<span class="teamLocation">Away</span>
+												</td>
+                                            </tr>
+										</table>
+                                  </div>
+								  
+                                   <div class="spreadBox">-0.5</div>
+                                
+                                
+							
+							</td>
+							
+							</tr>
+                            
+                                
+                                <tr><td>
+                                <style type="text/css">
+                                
+                                
+                                    #box13 {float:left;padding-right:20px;}
+                                    #box19 {float:right;}
+                                
+                                </style>
+                                
+                                
+                                     
+                                <div class="homeBox" id="box13" onClick="selectBox(13,19)" >
+                                 <table cellspacing="0" cellpadding="0">
+                                            <tr>
+                                                <td style="display:none;">
+                                                   <input style="display:none;" type="radio" name="204" value="13"
+                                                        >
+                                                </td>
+                                                <td><img src="/images/team_logos/nfl/small/13.png"></td>
+                                                <td>
+													<span class="teamName">LA Chargers</span> 
+													<span class="teamAbbr">LAC</span> 
+													<span class="teamRecord">(6-6)</span>
+													<span class="teamLocation">Home</span>
+												</td>
+                                            </tr>
+                                            </table>
+                                  </div>
+                                  <div class="awayBox"  id="box19" onClick="selectBox(19,13)" style="background-color:#ffffaa;">
+                                   <table cellspacing="0" cellpadding="0" >
+                                            <tr>
+                                                <td style="display:none;">
+                                                   <input style="display:none;" type="radio" name="204" value="19"  
+                                                         checked ></td>
+                                                <td><img src="/images/team_logos/nfl/small/19.png"></td>
+                                                <td>
+													<span class="teamName">Washington</span>
+													<span class="teamAbbr">WAS</span> 
+													<span class="teamRecord">(5-7)</span>
+													<span class="teamLocation">Away</span>
+												</td>
+                                            </tr>
+										</table>
+                                  </div>
+								  
+                                   <div class="spreadBox">-5.5</div>
+                                
+                                
+							
+							</td>
+							
+							</tr>
+                            
+                                
+                                <tr><td>
+                                <style type="text/css">
+                                
+                                
+                                    #box26 {float:left;padding-right:20px;}
+                                    #box17 {float:right;}
+                                
+                                </style>
+                                
+                                
+                                     
+                                <div class="homeBox" id="box26" onClick="selectBox(26,17)" >
+                                 <table cellspacing="0" cellpadding="0">
+                                            <tr>
+                                                <td style="display:none;">
+                                                   <input style="display:none;" type="radio" name="205" value="26"
+                                                        >
+                                                </td>
+                                                <td><img src="/images/team_logos/nfl/small/26.png"></td>
+                                                <td>
+													<span class="teamName">LA Rams</span> 
+													<span class="teamAbbr">LAR</span> 
+													<span class="teamRecord">(9-3)</span>
+													<span class="teamLocation">Home</span>
+												</td>
+                                            </tr>
+                                            </table>
+                                  </div>
+                                  <div class="awayBox"  id="box17" onClick="selectBox(17,26)" >
+                                   <table cellspacing="0" cellpadding="0" >
+                                            <tr>
+                                                <td style="display:none;">
+                                                   <input style="display:none;" type="radio" name="205" value="17"  
+                                                        ></td>
+                                                <td><img src="/images/team_logos/nfl/small/17.png"></td>
+                                                <td>
+													<span class="teamName">Philadelphia</span>
+													<span class="teamAbbr">PHI</span> 
+													<span class="teamRecord">(10-2)</span>
+													<span class="teamLocation">Away</span>
+												</td>
+                                            </tr>
+										</table>
+                                  </div>
+								  
+                                   <div class="spreadBox">-2.5</div>
+                                
+                                
+							
+							</td>
+							
+							</tr>
+                            
+                                
+                                <tr><td>
+                                <style type="text/css">
+                                
+                                
+                                    #box16 {float:right;}
+                                    #box15 {float:left;padding-right:20px;}
+                                
+                                </style>
+                                
+                                
+                                     
+                                <div class="homeBox" id="box16" onClick="selectBox(16,15)" >
+                                 <table cellspacing="0" cellpadding="0">
+                                            <tr>
+                                                <td style="display:none;">
+                                                   <input style="display:none;" type="radio" name="206" value="16"
+                                                        >
+                                                </td>
+                                                <td><img src="/images/team_logos/nfl/small/16.png"></td>
+                                                <td>
+													<span class="teamName">NY Giants</span> 
+													<span class="teamAbbr">NYG</span> 
+													<span class="teamRecord">(2-10)</span>
+													<span class="teamLocation">Home</span>
+												</td>
+                                            </tr>
+                                            </table>
+                                  </div>
+                                  <div class="awayBox"  id="box15" onClick="selectBox(15,16)" >
+                                   <table cellspacing="0" cellpadding="0" >
+                                            <tr>
+                                                <td style="display:none;">
+                                                   <input style="display:none;" type="radio" name="206" value="15"  
+                                                        ></td>
+                                                <td><img src="/images/team_logos/nfl/small/15.png"></td>
+                                                <td>
+													<span class="teamName">Dallas</span>
+													<span class="teamAbbr">DAL</span> 
+													<span class="teamRecord">(6-6)</span>
+													<span class="teamLocation">Away</span>
+												</td>
+                                            </tr>
+										</table>
+                                  </div>
+								  
+                                   <div class="spreadBox">-3.5</div>
+                                
+                                
+							
+							</td>
+							
+							</tr>
+                            
+                                
+                                <tr><td>
+                                <style type="text/css">
+                                
+                                
+                                    #box9 {float:left;padding-right:20px;}
+                                    #box31 {float:right;}
+                                
+                                </style>
+                                
+                                
+                                     
+                                <div class="homeBox" id="box9" onClick="selectBox(9,31)" >
+                                 <table cellspacing="0" cellpadding="0">
+                                            <tr>
+                                                <td style="display:none;">
+                                                   <input style="display:none;" type="radio" name="207" value="9"
+                                                        >
+                                                </td>
+                                                <td><img src="/images/team_logos/nfl/small/9.png"></td>
+                                                <td>
+													<span class="teamName">Pittsburgh</span> 
+													<span class="teamAbbr">PIT</span> 
+													<span class="teamRecord">(10-2)</span>
+													<span class="teamLocation">Home</span>
+												</td>
+                                            </tr>
+                                            </table>
+                                  </div>
+                                  <div class="awayBox"  id="box31" onClick="selectBox(31,9)" >
+                                   <table cellspacing="0" cellpadding="0" >
+                                            <tr>
+                                                <td style="display:none;">
+                                                   <input style="display:none;" type="radio" name="207" value="31"  
+                                                        ></td>
+                                                <td><img src="/images/team_logos/nfl/small/31.png"></td>
+                                                <td>
+													<span class="teamName">Baltimore</span>
+													<span class="teamAbbr">BAL</span> 
+													<span class="teamRecord">(7-5)</span>
+													<span class="teamLocation">Away</span>
+												</td>
+                                            </tr>
+										</table>
+                                  </div>
+								  
+                                   <div class="spreadBox">-4.5</div>
+                                
+                                
+							
+							</td>
+							
+							</tr>
+                            
+                            <tr>
+                                <td>
+                                    <div class="day">Monday, December 11</div>
+                                </td>
+								
+                            </tr>
+                            
+                                
+                                <tr><td>
+                                <style type="text/css">
+                                
+                                
+                                    #box3 {float:right;}
+                                    #box4 {float:left;padding-right:20px;}
+                                
+                                </style>
+                                
+                                
+                                     
+                                <div class="homeBox" id="box3" onClick="selectBox(3,4)" >
+                                 <table cellspacing="0" cellpadding="0">
+                                            <tr>
+                                                <td style="display:none;">
+                                                   <input style="display:none;" type="radio" name="208" value="3"
+                                                        >
+                                                </td>
+                                                <td><img src="/images/team_logos/nfl/small/3.png"></td>
+                                                <td>
+													<span class="teamName">Miami</span> 
+													<span class="teamAbbr">MIA</span> 
+													<span class="teamRecord">(5-7)</span>
+													<span class="teamLocation">Home</span>
+												</td>
+                                            </tr>
+                                            </table>
+                                  </div>
+                                  <div class="awayBox"  id="box4" onClick="selectBox(4,3)" >
+                                   <table cellspacing="0" cellpadding="0" >
+                                            <tr>
+                                                <td style="display:none;">
+                                                   <input style="display:none;" type="radio" name="208" value="4"  
+                                                        ></td>
+                                                <td><img src="/images/team_logos/nfl/small/4.png"></td>
+                                                <td>
+													<span class="teamName">New England</span>
+													<span class="teamAbbr">NE</span> 
+													<span class="teamRecord">(10-2)</span>
+													<span class="teamLocation">Away</span>
+												</td>
+                                            </tr>
+										</table>
+                                  </div>
+								  
+                                   <div class="spreadBox">-10.5</div>
+                                
+                                
+							
+							</td>
+							
+							</tr>
+                            
+                            <tr><td colspan="3" align="center" style="padding-top:15px;"><strong>Tiebreak (combined points in New England/Miami game)</strong>: <input class="form-control" style="display:inline-block;width:50px;" type="text" id="tiebreak" name="tiebreak" value="46" size="8"></td></tr>
+                        
+                        <tr><td colspan="3" align="center"><span class="black8">&nbsp;</span></td></tr>
+                        <tr><td colspan="3" align="center"><input type="submit" class="btn btn-primary" value="Submit Your Picks" onClick="return validate();"></td></tr>
+                        </table> 
+                        
+                        <br /><br />
+                        
+                        
+                
+						<div style="float:left;border:solid 0px #cccccc;padding-left:5px;width:250px;" class="black8">
+                        
+                        </div>
+						
+                        </form>
+            </div><!-- /picksheet -->
+            <div class="col-md-5">
+            	<style>
+            	   .pickHelp {border-bottom:solid 1px #dddddd;margin-bottom:15px;padding-bottom:15px;clear:both;}
+                .pickHelp .icon, .pickHelp .text {display:inline-block;}
+                .pickHelp .fa {padding-right:10px;}
+                </style>
+            	<div class="pickHelp">
+	                <div class="icon"><i class="fa fa-trophy fa-3x" style="color:#beb76b;"></i></div>
+	                <div class="text">
+	                  Want help with your picks?<br>
+	                  <a href="https://www.teamrankings.com/football-pool-picks/?trk=af_ryp_pickempick" target="_blank">Advice For This Pool</a>
+	                </div>
+	              </div>
+                <h3 style="margin-top:0px;">Instructions</h3>
+                <ul style="padding-left:0px;margin-left:15px;" class="rules">
+                	<li>
+                		Make your picks by clicking on a team.
+						
+                	</li>
+                <li>
+                
+                	Pick any 5 games of your choosing.
+                 
+            	</li>
+                <li>
+                	
+                	You will be able to modify unplayed games up until the final weekly pick deadline (Sundays at 1pm ET). 
+                	
+                	This week's final pick deadline is <b>Sunday 12/10/2017 1:00 PM ET</b>. After this no picks can be entered/modified.
+                </li>
+                
+                <li>Picks are made against the point spread.</li>
+                
+                <li>You must click the submit button for your picks to be saved.</li>
+                
+                </div>
+                
+                
+            </div> <!-- /instructions -->
+        </div> <!-- /row --->    
+        
+        
+<!-- Modal (pick count issue) -->
+<div class="modal fade" id="modalMissingPicks" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+        <h4 class="modal-title" id="myModalLabel"><i class="fa fa-warning fa-lg"></i> Missing Picks</h4>
+      </div>
+      <div class="modal-body">
+        <p>You have not picked every game.</p>
+        <p>Please verify that you have picked a team for each game this week.</p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>  
+
+<!-- Modal (missing picks) -->
+<div class="modal fade" id="modalPickCount" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+        <h4 class="modal-title" id="modalPickCountLabel"></h4>
+      </div>
+      <div class="modal-body">
+        
+
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>            
+
+	
+
+        
+		
+		
+		
+	
+	
+	</div> <!--/.container -->
+	
+</div> <!--/.wrapper -->
+    <!-- Footer -->
+    <footer>
+
+		<div class="container">
+			<div id="footerMain">
+				
+				<a href="https://www.runyourpool.com/testimonials.cfm">Testimonials</a> | 
+				<a href="https://www.runyourpool.com/terms_of_service.cfm">Terms of Service</a> | 
+				<a href="https://www.runyourpool.com/privacy.cfm">Privacy Statement</a> |
+				<a href="https://www.runyourpool.com/contact.cfm">Contact Us</a>
+				
+				<br /><br />
+				Copyright &#169; 2004-2017 RYP Technologies, LLC<br />
+				FOR ENTERTAINMENT PURPOSES ONLY
+				<div>
+					RunYourPool.com is a privately run site owned by RYP Technologies LLC, and is in no way affiliated with the National Football League (NFL), Major League Baseball (MLB), National Collegiate Athletic Association (NCAA), National Basketball Association (NBA), National Hockey League (NHL), PGA Tour, American Academy of Motion Picture Arts and Sciences (AMPAS) or the properties, affiliates or organizations of any professional or collegiate leagues, teams, or entities.
+				</div>
+			</div>
+		</div>
+
+    </footer>
+  
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+	<script src="/bootstrap3.3.7/js/bootstrap.min.js"></script>
+    
+    
+    
+    
+    
+	<script>
+	
+
+	function getCookie(name) {
+		var nameEQ = name + "=";
+		var ca = document.cookie.split(';');
+		for (var i = 0; i < ca.length; i++) {
+			var c = ca[i];
+			while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+			if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+		}
+		return null;
+	}
+
+	</script>
+	
+	<script>
+		function removeRecentPool(obj,team_id,index) {
+		obj.parent().parent().addClass('hideFade');
+		
+		var list = getCookie("RECENTPOOLS");
+		var separator = "%7C"
+		var values = list.split(separator);
+		
+		for(var i = 0 ; i < values.length ; i++) {
+			if(i==index) {
+			  values.splice(i, 1);
+			  list = values.join(separator);
+			  break;
+			}
+		}
+		document.cookie = 'RECENTPOOLS=' + list + ';domain=.runyourpool.com;path=/';
+		
+		var jqxhr = $.get( "/shared_includes/recentPoolsInclude.cfm?rpFunction=suppress&t=" + team_id, function(data) {
+		  //alert( data );
+		})
+		  .fail(function() {
+			//alert( "error" );
+		  });
+	}
+	
+	$(document).on('click', '.recent-wrapper.dropdown-menu', function (e) {
+	  e.stopPropagation();
+	});
+	</script>
+	
+		<script>
+		function toggleScroll() {
+			if ($(".nav.navbar-nav").height()>340) {
+				$('.nav.navbar-nav').addClass('scrollable');
+			}
+			else {
+				$('.nav.navbar-nav').removeClass('scrollable');
+			}
+		}
+		
+		$('.dropdown').on('shown.bs.dropdown', function () {
+			toggleScroll();
+		});
+		$('.dropdown').on('hidden.bs.dropdown', function () {
+			toggleScroll();
+		});
+		
+		$('.navbar-collapse.collapse').scroll(function () {
+			if($('.navbar-collapse.collapse').scrollTop()>= $(".nav.navbar-nav").height()-340) {
+				$('.nav.navbar-nav').removeClass('scrollable');
+			}
+			else {
+				$('.nav.navbar-nav').addClass('scrollable');
+			}
+		});
+		</script>
+		
+ <!-- Modal -->
+<div class="modal fade" id="notificationModal" tabindex="-1" role="dialog" aria-labelledby="basicModal" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+    </div> <!-- /.modal-content -->
+  </div> <!-- /.modal-dialog -->
+</div> <!-- /.modal -->
+<script>
+$('body').on('hidden.bs.modal', '.modal', function () {
+    $(this).removeData('bs.modal');
+});
+</script>
+ 
+	
+    <script>
+	
+		$(document).ready(function() {
+		   $(".nav li.disabled a").click(function() {
+			 return false;
+		   });
+		});
+	
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-458701-1', 'auto');
+      ga('send', 'pageview');
+      
+    </script>
+  </body>
+</html>

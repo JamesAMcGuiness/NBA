@@ -1,0 +1,26 @@
+
+
+<cfquery datasource="NBA" name="GetRecs">
+Select rec.UpToDatePct,rec.SystemNum,fp. 
+from SystemRecord rec, Finalpicks fp, NBAGametime gt
+where rec.UseForPicksFlag > ''
+and rec.SystemNum IN ('SYS57','SYS27','SYS2','SYS500','SYS6','SYS51','SYS28','SYS16','SYS99','SYS102','SYS19','SYS42','SYS200')
+and fp.Gametime = gt.Gametime
+order by 1 desc
+</cfquery>
+
+<cfdump var="#GetRecs#">
+
+<cfabort>
+
+<cfquery datasource="Nba" name="UPDATE">
+	Insert into NBADataLoadStatus
+	(
+	ProgramName
+	)
+	values
+	(
+	'Record has been updated - UpdateRecordForTimePeriod.cfm'
+	)
+</cfquery>
+

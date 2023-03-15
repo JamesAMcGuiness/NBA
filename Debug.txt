@@ -1,0 +1,1662 @@
+theteamsplaying
+Denver NuggetsPhiladelphia 76ers
+15
+Skip Team
+Philadelphia 76ers
+Found Tm2
+1
+1
+Skip Team
+Denver Nuggets
+Found Tm2
+15
+Tm1 is
+Denver Nuggets
+Tm2 is
+Philadelphia 76ers
+Teampos1 is 1 so Tm1 is Away
+Away Team is Team1
+At line 246 AwayTm is
+Denver Nuggets
+At line 246 HomeTm is
+Philadelphia 76ers
+checkthis is
+230
+checkthis is gt 100
+checksign is
+-
+checksign is -
+theteamsplaying
+Denver NuggetsPhiladelphia 76ers
+15
+Skip Team
+Philadelphia 76ers
+Found Tm2
+1
+1
+Skip Team
+Denver Nuggets
+Found Tm2
+15
+Tm1 is
+Denver Nuggets
+Tm2 is
+Philadelphia 76ers
+Teampos1 is 1 so Tm1 is Away
+Away Team is Team1
+At line 246 AwayTm is
+Denver Nuggets
+At line 246 HomeTm is
+Philadelphia 76ers
+checkthis is
+230
+checkthis is gt 100
+checksign is
+-
+checksign is -
+theteamsplaying
+Cleveland CavaliersWashington Wizards
+1
+Skip Team
+Cleveland Cavaliers
+Found Tm2
+20
+20
+Skip Team
+Washington Wizards
+Found Tm2
+1
+Tm1 is
+Washington Wizards
+Tm2 is
+Cleveland Cavaliers
+Teampos1 is NOT 1 so Tm1 is Home
+At line 246 AwayTm is
+Cleveland Cavaliers
+At line 246 HomeTm is
+Washington Wizards
+checkthis is
+220
+checkthis is gt 100
+checksign is
+-
+checksign is -
+theteamsplaying
+New York KnicksDetroit Pistons
+1
+Skip Team
+New York Knicks
+Found Tm2
+16
+16
+Skip Team
+Detroit Pistons
+Found Tm2
+1
+Tm1 is
+Detroit Pistons
+Tm2 is
+New York Knicks
+Teampos1 is NOT 1 so Tm1 is Home
+At line 246 AwayTm is
+New York Knicks
+At line 246 HomeTm is
+Detroit Pistons
+checkthis is
+206
+checkthis is gt 100
+checksign is
+-
+checksign is -
+theteamsplaying
+Chicago BullsBrooklyn Nets
+14
+Skip Team
+Brooklyn Nets
+Found Tm2
+1
+1
+Skip Team
+Chicago Bulls
+Found Tm2
+14
+Tm1 is
+Chicago Bulls
+Tm2 is
+Brooklyn Nets
+Teampos1 is 1 so Tm1 is Away
+Away Team is Team1
+At line 246 AwayTm is
+Chicago Bulls
+At line 246 HomeTm is
+Brooklyn Nets
+checkthis is
+224
+checkthis is gt 100
+checksign is
+-
+checksign is -
+theteamsplaying
+Milwaukee BucksDallas Mavericks
+16
+Skip Team
+Dallas Mavericks
+Found Tm2
+1
+1
+Skip Team
+Milwaukee Bucks
+Found Tm2
+16
+Tm1 is
+Milwaukee Bucks
+Tm2 is
+Dallas Mavericks
+Teampos1 is 1 so Tm1 is Away
+Away Team is Team1
+At line 246 AwayTm is
+Milwaukee Bucks
+At line 246 HomeTm is
+Dallas Mavericks
+checkthis is
+-7.
+checkthis is NOT gt 100
+checksign is
+-
+checksign is - (else)
+theteamsplaying
+Golden State WarriorsPhoenix Suns
+1
+Skip Team
+Golden State Warriors
+Found Tm2
+22
+22
+Skip Team
+Phoenix Suns
+Found Tm2
+1
+Tm1 is
+Phoenix Suns
+Tm2 is
+Golden State Warriors
+Teampos1 is NOT 1 so Tm1 is Home
+At line 246 AwayTm is
+Golden State Warriors
+At line 246 HomeTm is
+Phoenix Suns
+checkthis is
+-15
+checkthis is NOT gt 100
+checksign is
+-
+checksign is - (else)
+theteamsplaying
+Minnesota TimberwolvesNew Orleans Pelicans
+1
+Skip Team
+Minnesota Timberwolves
+Found Tm2
+23
+23
+Skip Team
+New Orleans Pelicans
+Found Tm2
+1
+Tm1 is
+New Orleans Pelicans
+Tm2 is
+Minnesota Timberwolves
+Teampos1 is NOT 1 so Tm1 is Home
+At line 246 AwayTm is
+Minnesota Timberwolves
+At line 246 HomeTm is
+New Orleans Pelicans
+checkthis is
+232
+checkthis is gt 100
+checksign is
+-
+checksign is -
+theteamsplaying
+Miami HeatSacramento Kings
+1
+Skip Team
+Miami Heat
+Found Tm2
+11
+11
+Skip Team
+Sacramento Kings
+Found Tm2
+1
+Tm1 is
+Sacramento Kings
+Tm2 is
+Miami Heat
+Teampos1 is NOT 1 so Tm1 is Home
+At line 246 AwayTm is
+Miami Heat
+At line 246 HomeTm is
+Sacramento Kings
+checkthis is
+217
+checkthis is gt 100
+checksign is
+-
+checksign is -
+theteamsplaying
+NA
+theteamsplaying
+San Antonio SpursUtah Jazz
+18
+Skip Team
+Utah Jazz
+Found Tm2
+1
+1
+Skip Team
+San Antonio Spurs
+Found Tm2
+18
+Tm1 is
+San Antonio Spurs
+Tm2 is
+Utah Jazz
+Teampos1 is 1 so Tm1 is Away
+Away Team is Team1
+At line 246 AwayTm is
+San Antonio Spurs
+At line 246 HomeTm is
+Utah Jazz
+checkthis is
+222
+checkthis is gt 100
+checksign is
+-
+checksign is -
+theteamsplaying
+Cleveland CavaliersIndiana Pacers
+1
+Skip Team
+Cleveland Cavaliers
+Found Tm2
+20
+20
+Skip Team
+Indiana Pacers
+Found Tm2
+1
+Tm1 is
+Indiana Pacers
+Tm2 is
+Cleveland Cavaliers
+Teampos1 is NOT 1 so Tm1 is Home
+At line 246 AwayTm is
+Cleveland Cavaliers
+At line 246 HomeTm is
+Indiana Pacers
+checkthis is
+210
+checkthis is gt 100
+checksign is
+-
+checksign is -
+theteamsplaying
+Toronto RaptorsNew York Knicks
+16
+Skip Team
+New York Knicks
+Found Tm2
+1
+1
+Skip Team
+Toronto Raptors
+Found Tm2
+16
+Tm1 is
+Toronto Raptors
+Tm2 is
+New York Knicks
+Teampos1 is 1 so Tm1 is Away
+Away Team is Team1
+At line 246 AwayTm is
+Toronto Raptors
+At line 246 HomeTm is
+New York Knicks
+checkthis is
+-11
+checkthis is NOT gt 100
+checksign is
+-
+checksign is - (else)
+theteamsplaying
+Charlotte HornetsAtlanta Hawks
+18
+Skip Team
+Atlanta Hawks
+Found Tm2
+1
+1
+Skip Team
+Charlotte Hornets
+Found Tm2
+18
+Tm1 is
+Charlotte Hornets
+Tm2 is
+Atlanta Hawks
+Teampos1 is 1 so Tm1 is Away
+Away Team is Team1
+At line 246 AwayTm is
+Charlotte Hornets
+At line 246 HomeTm is
+Atlanta Hawks
+checkthis is
+-2.
+checkthis is NOT gt 100
+checksign is
+-
+checksign is - (else)
+theteamsplaying
+New Orleans PelicansMemphis Grizzlies
+1
+Skip Team
+New Orleans Pelicans
+Found Tm2
+21
+21
+Skip Team
+Memphis Grizzlies
+Found Tm2
+1
+Tm1 is
+Memphis Grizzlies
+Tm2 is
+New Orleans Pelicans
+Teampos1 is NOT 1 so Tm1 is Home
+At line 246 AwayTm is
+New Orleans Pelicans
+At line 246 HomeTm is
+Memphis Grizzlies
+checkthis is
+210
+checkthis is gt 100
+checksign is
+-
+checksign is -
+theteamsplaying
+Washington WizardsChicago Bulls
+19
+Skip Team
+Chicago Bulls
+Found Tm2
+1
+1
+Skip Team
+Washington Wizards
+Found Tm2
+19
+Tm1 is
+Washington Wizards
+Tm2 is
+Chicago Bulls
+Teampos1 is 1 so Tm1 is Away
+Away Team is Team1
+At line 246 AwayTm is
+Washington Wizards
+At line 246 HomeTm is
+Chicago Bulls
+checkthis is
+-2.
+checkthis is NOT gt 100
+checksign is
+-
+checksign is - (else)
+theteamsplaying
+Los Angeles ClippersBoston Celtics
+21
+Skip Team
+Boston Celtics
+Found Tm2
+1
+1
+Skip Team
+Los Angeles Clippers
+Found Tm2
+21
+Tm1 is
+Los Angeles Clippers
+Tm2 is
+Boston Celtics
+Teampos1 is 1 so Tm1 is Away
+Away Team is Team1
+At line 246 AwayTm is
+Los Angeles Clippers
+At line 246 HomeTm is
+Boston Celtics
+checkthis is
+228
+checkthis is gt 100
+checksign is
+-
+checksign is -
+theteamsplaying
+Oklahoma City ThunderHouston Rockets
+22
+Skip Team
+Houston Rockets
+Found Tm2
+1
+1
+Skip Team
+Oklahoma City Thunder
+Found Tm2
+22
+Tm1 is
+Oklahoma City Thunder
+Tm2 is
+Houston Rockets
+Teampos1 is 1 so Tm1 is Away
+Away Team is Team1
+At line 246 AwayTm is
+Oklahoma City Thunder
+At line 246 HomeTm is
+Houston Rockets
+checkthis is
+235
+checkthis is gt 100
+checksign is
+-
+checksign is -
+theteamsplaying
+Orlando MagicMilwaukee Bucks
+1
+Skip Team
+Orlando Magic
+Found Tm2
+14
+14
+Skip Team
+Milwaukee Bucks
+Found Tm2
+1
+Tm1 is
+Milwaukee Bucks
+Tm2 is
+Orlando Magic
+Teampos1 is NOT 1 so Tm1 is Home
+At line 246 AwayTm is
+Orlando Magic
+At line 246 HomeTm is
+Milwaukee Bucks
+checkthis is
+222
+checkthis is gt 100
+checksign is
+-
+checksign is -
+theteamsplaying
+NA
+theteamsplaying
+Portland Trail BlazersDallas Mavericks
+1
+Skip Team
+Portland Trail Blazers
+Found Tm2
+23
+23
+Skip Team
+Dallas Mavericks
+Found Tm2
+1
+Tm1 is
+Dallas Mavericks
+Tm2 is
+Portland Trail Blazers
+Teampos1 is NOT 1 so Tm1 is Home
+At line 246 AwayTm is
+Portland Trail Blazers
+At line 246 HomeTm is
+Dallas Mavericks
+checkthis is
+-4.
+checkthis is NOT gt 100
+checksign is
+-
+checksign is - (else)
+theteamsplaying
+Los Angeles LakersPhiladelphia 76ers
+1
+Skip Team
+Los Angeles Lakers
+Found Tm2
+19
+19
+Skip Team
+Philadelphia 76ers
+Found Tm2
+1
+Tm1 is
+Philadelphia 76ers
+Tm2 is
+Los Angeles Lakers
+Teampos1 is NOT 1 so Tm1 is Home
+At line 246 AwayTm is
+Los Angeles Lakers
+At line 246 HomeTm is
+Philadelphia 76ers
+checkthis is
+234
+checkthis is gt 100
+checksign is
+-
+checksign is -
+theteamsplaying
+Phoenix SunsSacramento Kings
+13
+Skip Team
+Sacramento Kings
+Found Tm2
+1
+1
+Skip Team
+Phoenix Suns
+Found Tm2
+13
+Tm1 is
+Phoenix Suns
+Tm2 is
+Sacramento Kings
+Teampos1 is 1 so Tm1 is Away
+Away Team is Team1
+At line 246 AwayTm is
+Phoenix Suns
+At line 246 HomeTm is
+Sacramento Kings
+checkthis is
+230
+checkthis is gt 100
+checksign is
+-
+checksign is -
+theteamsplaying
+Orlando MagicAtlanta Hawks
+1
+Skip Team
+Orlando Magic
+Found Tm2
+14
+14
+Skip Team
+Atlanta Hawks
+Found Tm2
+1
+Tm1 is
+Atlanta Hawks
+Tm2 is
+Orlando Magic
+Teampos1 is NOT 1 so Tm1 is Home
+At line 246 AwayTm is
+Orlando Magic
+At line 246 HomeTm is
+Atlanta Hawks
+checkthis is
+-1.
+checkthis is NOT gt 100
+checksign is
+-
+checksign is - (else)
+theteamsplaying
+Miami HeatGolden State Warriors
+11
+Skip Team
+Golden State Warriors
+Found Tm2
+1
+1
+Skip Team
+Miami Heat
+Found Tm2
+11
+Tm1 is
+Miami Heat
+Tm2 is
+Golden State Warriors
+Teampos1 is 1 so Tm1 is Away
+Away Team is Team1
+At line 246 AwayTm is
+Miami Heat
+At line 246 HomeTm is
+Golden State Warriors
+checkthis is
+221
+checkthis is gt 100
+checksign is
+-
+checksign is -
+theteamsplaying
+NA
+theteamsplaying
+Washington WizardsDetroit Pistons
+1
+Skip Team
+Washington Wizards
+Found Tm2
+19
+19
+Skip Team
+Detroit Pistons
+Found Tm2
+1
+Tm1 is
+Detroit Pistons
+Tm2 is
+Washington Wizards
+Teampos1 is NOT 1 so Tm1 is Home
+At line 246 AwayTm is
+Washington Wizards
+At line 246 HomeTm is
+Detroit Pistons
+checkthis is
+223
+checkthis is gt 100
+checksign is
+-
+checksign is -
+theteamsplaying
+New York KnicksCleveland Cavaliers
+1
+Skip Team
+New York Knicks
+Found Tm2
+16
+16
+Skip Team
+Cleveland Cavaliers
+Found Tm2
+1
+Tm1 is
+Cleveland Cavaliers
+Tm2 is
+New York Knicks
+Teampos1 is NOT 1 so Tm1 is Home
+At line 246 AwayTm is
+New York Knicks
+At line 246 HomeTm is
+Cleveland Cavaliers
+checkthis is
+208
+checkthis is gt 100
+checksign is
+-
+checksign is -
+theteamsplaying
+Charlotte HornetsIndiana Pacers
+18
+Skip Team
+Indiana Pacers
+Found Tm2
+1
+1
+Skip Team
+Charlotte Hornets
+Found Tm2
+18
+Tm1 is
+Charlotte Hornets
+Tm2 is
+Indiana Pacers
+Teampos1 is 1 so Tm1 is Away
+Away Team is Team1
+At line 246 AwayTm is
+Charlotte Hornets
+At line 246 HomeTm is
+Indiana Pacers
+checkthis is
+216
+checkthis is gt 100
+checksign is
+-
+checksign is -
+theteamsplaying
+Brooklyn NetsToronto Raptors
+1
+Skip Team
+Brooklyn Nets
+Found Tm2
+14
+14
+Skip Team
+Toronto Raptors
+Found Tm2
+1
+Tm1 is
+Toronto Raptors
+Tm2 is
+Brooklyn Nets
+Teampos1 is NOT 1 so Tm1 is Home
+At line 246 AwayTm is
+Brooklyn Nets
+At line 246 HomeTm is
+Toronto Raptors
+checkthis is
+228
+checkthis is gt 100
+checksign is
+-
+checksign is -
+theteamsplaying
+Portland Trail BlazersOklahoma City Thunder
+1
+Skip Team
+Portland Trail Blazers
+Found Tm2
+23
+23
+Skip Team
+Oklahoma City Thunder
+Found Tm2
+1
+Tm1 is
+Oklahoma City Thunder
+Tm2 is
+Portland Trail Blazers
+Teampos1 is NOT 1 so Tm1 is Home
+At line 246 AwayTm is
+Portland Trail Blazers
+At line 246 HomeTm is
+Oklahoma City Thunder
+checkthis is
+231
+checkthis is gt 100
+checksign is
+-
+checksign is -
+theteamsplaying
+Dallas MavericksHouston Rockets
+17
+Skip Team
+Houston Rockets
+Found Tm2
+1
+1
+Skip Team
+Dallas Mavericks
+Found Tm2
+17
+Tm1 is
+Dallas Mavericks
+Tm2 is
+Houston Rockets
+Teampos1 is 1 so Tm1 is Away
+Away Team is Team1
+At line 246 AwayTm is
+Dallas Mavericks
+At line 246 HomeTm is
+Houston Rockets
+checkthis is
+221
+checkthis is gt 100
+checksign is
+-
+checksign is -
+theteamsplaying
+Milwaukee BucksChicago Bulls
+16
+Skip Team
+Chicago Bulls
+Found Tm2
+1
+1
+Skip Team
+Milwaukee Bucks
+Found Tm2
+16
+Tm1 is
+Milwaukee Bucks
+Tm2 is
+Chicago Bulls
+Teampos1 is 1 so Tm1 is Away
+Away Team is Team1
+At line 246 AwayTm is
+Milwaukee Bucks
+At line 246 HomeTm is
+Chicago Bulls
+checkthis is
+-10
+checkthis is NOT gt 100
+checksign is
+-
+checksign is - (else)
+theteamsplaying
+Los Angeles ClippersMinnesota Timberwolves
+21
+Skip Team
+Minnesota Timberwolves
+Found Tm2
+1
+1
+Skip Team
+Los Angeles Clippers
+Found Tm2
+21
+Tm1 is
+Los Angeles Clippers
+Tm2 is
+Minnesota Timberwolves
+Teampos1 is 1 so Tm1 is Away
+Away Team is Team1
+At line 246 AwayTm is
+Los Angeles Clippers
+At line 246 HomeTm is
+Minnesota Timberwolves
+checkthis is
+230
+checkthis is gt 100
+checksign is
+-
+checksign is -
+theteamsplaying
+Miami HeatDenver Nuggets
+1
+Skip Team
+Miami Heat
+Found Tm2
+11
+11
+Skip Team
+Denver Nuggets
+Found Tm2
+1
+Tm1 is
+Denver Nuggets
+Tm2 is
+Miami Heat
+Teampos1 is NOT 1 so Tm1 is Home
+At line 246 AwayTm is
+Miami Heat
+At line 246 HomeTm is
+Denver Nuggets
+checkthis is
+212
+checkthis is gt 100
+checksign is
+-
+checksign is -
+theteamsplaying
+NA
+theteamsplaying
+Los Angeles LakersAtlanta Hawks
+1
+Skip Team
+Los Angeles Lakers
+Found Tm2
+19
+19
+Skip Team
+Atlanta Hawks
+Found Tm2
+1
+Tm1 is
+Atlanta Hawks
+Tm2 is
+Los Angeles Lakers
+Teampos1 is NOT 1 so Tm1 is Home
+At line 246 AwayTm is
+Los Angeles Lakers
+At line 246 HomeTm is
+Atlanta Hawks
+checkthis is
+-5.
+checkthis is NOT gt 100
+checksign is
+-
+checksign is - (else)
+theteamsplaying
+Orlando MagicNew Orleans Pelicans
+1
+Skip Team
+Orlando Magic
+Found Tm2
+14
+14
+Skip Team
+New Orleans Pelicans
+Found Tm2
+1
+Tm1 is
+New Orleans Pelicans
+Tm2 is
+Orlando Magic
+Teampos1 is NOT 1 so Tm1 is Home
+At line 246 AwayTm is
+Orlando Magic
+At line 246 HomeTm is
+New Orleans Pelicans
+checkthis is
+224
+checkthis is gt 100
+checksign is
+-
+checksign is -
+theteamsplaying
+Boston CelticsPhiladelphia 76ers
+1
+Skip Team
+Boston Celtics
+Found Tm2
+15
+15
+Skip Team
+Philadelphia 76ers
+Found Tm2
+1
+Tm1 is
+Philadelphia 76ers
+Tm2 is
+Boston Celtics
+Teampos1 is NOT 1 so Tm1 is Home
+At line 246 AwayTm is
+Boston Celtics
+At line 246 HomeTm is
+Philadelphia 76ers
+checkthis is
+225
+checkthis is gt 100
+checksign is
+-
+checksign is -
+theteamsplaying
+San Antonio SpursMemphis Grizzlies
+1
+Skip Team
+San Antonio Spurs
+Found Tm2
+18
+18
+Skip Team
+Memphis Grizzlies
+Found Tm2
+1
+Tm1 is
+Memphis Grizzlies
+Tm2 is
+San Antonio Spurs
+Teampos1 is NOT 1 so Tm1 is Home
+At line 246 AwayTm is
+San Antonio Spurs
+At line 246 HomeTm is
+Memphis Grizzlies
+checkthis is
+-3.
+checkthis is NOT gt 100
+checksign is
+-
+checksign is - (else)
+theteamsplaying
+Utah JazzGolden State Warriors
+1
+Skip Team
+Utah Jazz
+Found Tm2
+10
+10
+Skip Team
+Golden State Warriors
+Found Tm2
+1
+Tm1 is
+Golden State Warriors
+Tm2 is
+Utah Jazz
+Teampos1 is NOT 1 so Tm1 is Home
+At line 246 AwayTm is
+Utah Jazz
+At line 246 HomeTm is
+Golden State Warriors
+checkthis is
+229
+checkthis is gt 100
+checksign is
+-
+checksign is -
+theteamsplaying
+NA
+theteamsplaying
+Cleveland CavaliersOrlando Magic
+20
+Skip Team
+Orlando Magic
+Found Tm2
+1
+1
+Skip Team
+Cleveland Cavaliers
+Found Tm2
+20
+Tm1 is
+Cleveland Cavaliers
+Tm2 is
+Orlando Magic
+Teampos1 is 1 so Tm1 is Away
+Away Team is Team1
+At line 246 AwayTm is
+Cleveland Cavaliers
+At line 246 HomeTm is
+Orlando Magic
+checkthis is
+211
+checkthis is gt 100
+checksign is
+-
+checksign is -
+theteamsplaying
+Cleveland CavaliersOrlando Magic
+20
+Skip Team
+Orlando Magic
+Found Tm2
+1
+1
+Skip Team
+Cleveland Cavaliers
+Found Tm2
+20
+Tm1 is
+Cleveland Cavaliers
+Tm2 is
+Orlando Magic
+Teampos1 is 1 so Tm1 is Away
+Away Team is Team1
+At line 246 AwayTm is
+Cleveland Cavaliers
+At line 246 HomeTm is
+Orlando Magic
+checkthis is
+211
+checkthis is gt 100
+checksign is
+-
+checksign is -
+theteamsplaying
+Oklahoma City ThunderIndiana Pacers
+22
+Skip Team
+Indiana Pacers
+Found Tm2
+1
+1
+Skip Team
+Oklahoma City Thunder
+Found Tm2
+22
+Tm1 is
+Oklahoma City Thunder
+Tm2 is
+Indiana Pacers
+Teampos1 is 1 so Tm1 is Away
+Away Team is Team1
+At line 246 AwayTm is
+Oklahoma City Thunder
+At line 246 HomeTm is
+Indiana Pacers
+checkthis is
+219
+checkthis is gt 100
+checksign is
+-
+checksign is -
+theteamsplaying
+Sacramento KingsBoston Celtics
+17
+Skip Team
+Boston Celtics
+Found Tm2
+1
+1
+Skip Team
+Sacramento Kings
+Found Tm2
+17
+Tm1 is
+Sacramento Kings
+Tm2 is
+Boston Celtics
+Teampos1 is 1 so Tm1 is Away
+Away Team is Team1
+At line 246 AwayTm is
+Sacramento Kings
+At line 246 HomeTm is
+Boston Celtics
+checkthis is
+227
+checkthis is gt 100
+checksign is
+-
+checksign is -
+theteamsplaying
+Los Angeles LakersToronto Raptors
+1
+Skip Team
+Los Angeles Lakers
+Found Tm2
+19
+19
+Skip Team
+Toronto Raptors
+Found Tm2
+1
+Tm1 is
+Toronto Raptors
+Tm2 is
+Los Angeles Lakers
+Teampos1 is NOT 1 so Tm1 is Home
+At line 246 AwayTm is
+Los Angeles Lakers
+At line 246 HomeTm is
+Toronto Raptors
+checkthis is
+231
+checkthis is gt 100
+checksign is
+-
+checksign is -
+theteamsplaying
+Minnesota TimberwolvesUtah Jazz
+1
+Skip Team
+Minnesota Timberwolves
+Found Tm2
+23
+23
+Skip Team
+Utah Jazz
+Found Tm2
+1
+Tm1 is
+Utah Jazz
+Tm2 is
+Minnesota Timberwolves
+Teampos1 is NOT 1 so Tm1 is Home
+At line 246 AwayTm is
+Minnesota Timberwolves
+At line 246 HomeTm is
+Utah Jazz
+checkthis is
+221
+checkthis is gt 100
+checksign is
+-
+checksign is -
+theteamsplaying
+Dallas MavericksDenver Nuggets
+1
+Skip Team
+Dallas Mavericks
+Found Tm2
+17
+17
+Skip Team
+Denver Nuggets
+Found Tm2
+1
+Tm1 is
+Denver Nuggets
+Tm2 is
+Dallas Mavericks
+Teampos1 is NOT 1 so Tm1 is Home
+At line 246 AwayTm is
+Dallas Mavericks
+At line 246 HomeTm is
+Denver Nuggets
+checkthis is
+220
+checkthis is gt 100
+checksign is
+-
+checksign is -
+theteamsplaying
+NA
+theteamsplaying
+Los Angeles LakersDetroit Pistons
+1
+Skip Team
+Los Angeles Lakers
+Found Tm2
+19
+19
+Skip Team
+Detroit Pistons
+Found Tm2
+1
+Tm1 is
+Detroit Pistons
+Tm2 is
+Los Angeles Lakers
+Teampos1 is NOT 1 so Tm1 is Home
+At line 246 AwayTm is
+Los Angeles Lakers
+At line 246 HomeTm is
+Detroit Pistons
+checkthis is
+217
+checkthis is gt 100
+checksign is
+-
+checksign is -
+theteamsplaying
+Sacramento KingsPhiladelphia 76ers
+1
+Skip Team
+Sacramento Kings
+Found Tm2
+17
+17
+Skip Team
+Philadelphia 76ers
+Found Tm2
+1
+Tm1 is
+Philadelphia 76ers
+Tm2 is
+Sacramento Kings
+Teampos1 is NOT 1 so Tm1 is Home
+At line 246 AwayTm is
+Sacramento Kings
+At line 246 HomeTm is
+Philadelphia 76ers
+checkthis is
+231
+checkthis is gt 100
+checksign is
+-
+checksign is -
+theteamsplaying
+Charlotte HornetsWashington Wizards
+18
+Skip Team
+Washington Wizards
+Found Tm2
+1
+1
+Skip Team
+Charlotte Hornets
+Found Tm2
+18
+Tm1 is
+Charlotte Hornets
+Tm2 is
+Washington Wizards
+Teampos1 is 1 so Tm1 is Away
+Away Team is Team1
+At line 246 AwayTm is
+Charlotte Hornets
+At line 246 HomeTm is
+Washington Wizards
+checkthis is
+233
+checkthis is gt 100
+checksign is
+-
+checksign is -
+theteamsplaying
+Phoenix SunsHouston Rockets
+13
+Skip Team
+Houston Rockets
+Found Tm2
+1
+1
+Skip Team
+Phoenix Suns
+Found Tm2
+13
+Tm1 is
+Phoenix Suns
+Tm2 is
+Houston Rockets
+Teampos1 is 1 so Tm1 is Away
+Away Team is Team1
+At line 246 AwayTm is
+Phoenix Suns
+At line 246 HomeTm is
+Houston Rockets
+checkthis is
+225
+checkthis is gt 100
+checksign is
+-
+checksign is -
+theteamsplaying
+Portland Trail BlazersNew Orleans Pelicans
+23
+Skip Team
+New Orleans Pelicans
+Found Tm2
+1
+1
+Skip Team
+Portland Trail Blazers
+Found Tm2
+23
+Tm1 is
+Portland Trail Blazers
+Tm2 is
+New Orleans Pelicans
+Teampos1 is 1 so Tm1 is Away
+Away Team is Team1
+At line 246 AwayTm is
+Portland Trail Blazers
+At line 246 HomeTm is
+New Orleans Pelicans
+checkthis is
+-7.
+checkthis is NOT gt 100
+checksign is
+-
+checksign is - (else)
+theteamsplaying
+Milwaukee BucksMiami Heat
+1
+Skip Team
+Milwaukee Bucks
+Found Tm2
+16
+16
+Skip Team
+Miami Heat
+Found Tm2
+1
+Tm1 is
+Miami Heat
+Tm2 is
+Milwaukee Bucks
+Teampos1 is NOT 1 so Tm1 is Home
+At line 246 AwayTm is
+Milwaukee Bucks
+At line 246 HomeTm is
+Miami Heat
+checkthis is
+-5.
+checkthis is NOT gt 100
+checksign is
+-
+checksign is - (else)
+theteamsplaying
+New York KnicksSan Antonio Spurs
+1
+Skip Team
+New York Knicks
+Found Tm2
+16
+16
+Skip Team
+San Antonio Spurs
+Found Tm2
+1
+Tm1 is
+San Antonio Spurs
+Tm2 is
+New York Knicks
+Teampos1 is NOT 1 so Tm1 is Home
+At line 246 AwayTm is
+New York Knicks
+At line 246 HomeTm is
+San Antonio Spurs
+checkthis is
+215
+checkthis is gt 100
+checksign is
+-
+checksign is -
+theteamsplaying
+Chicago BullsLos Angeles Clippers
+1
+Skip Team
+Chicago Bulls
+Found Tm2
+14
+14
+Skip Team
+Los Angeles Clippers
+Found Tm2
+1
+Tm1 is
+Los Angeles Clippers
+Tm2 is
+Chicago Bulls
+Teampos1 is NOT 1 so Tm1 is Home
+At line 246 AwayTm is
+Chicago Bulls
+At line 246 HomeTm is
+Los Angeles Clippers
+checkthis is
+228
+checkthis is gt 100
+checksign is
+-
+checksign is -
+theteamsplaying
+NA
+theteamsplaying
+Atlanta HawksBoston Celtics
+14
+Skip Team
+Boston Celtics
+Found Tm2
+1
+1
+Skip Team
+Atlanta Hawks
+Found Tm2
+14
+Tm1 is
+Atlanta Hawks
+Tm2 is
+Boston Celtics
+Teampos1 is 1 so Tm1 is Away
+Away Team is Team1
+At line 246 AwayTm is
+Atlanta Hawks
+At line 246 HomeTm is
+Boston Celtics
+checkthis is
+232
+checkthis is gt 100
+checksign is
+-
+checksign is -
+theteamsplaying
+Memphis GrizzliesWashington Wizards
+18
+Skip Team
+Washington Wizards
+Found Tm2
+1
+1
+Skip Team
+Memphis Grizzlies
+Found Tm2
+18
+Tm1 is
+Memphis Grizzlies
+Tm2 is
+Washington Wizards
+Teampos1 is 1 so Tm1 is Away
+Away Team is Team1
+At line 246 AwayTm is
+Memphis Grizzlies
+At line 246 HomeTm is
+Washington Wizards
+checkthis is
+224
+checkthis is gt 100
+checksign is
+-
+checksign is -
+theteamsplaying
+Phoenix SunsNew Orleans Pelicans
+13
+Skip Team
+New Orleans Pelicans
+Found Tm2
+1
+1
+Skip Team
+Phoenix Suns
+Found Tm2
+13
+Tm1 is
+Phoenix Suns
+Tm2 is
+New Orleans Pelicans
+Teampos1 is 1 so Tm1 is Away
+Away Team is Team1
+At line 246 AwayTm is
+Phoenix Suns
+At line 246 HomeTm is
+New Orleans Pelicans
+checkthis is
+234
+checkthis is gt 100
+checksign is
+-
+checksign is -
+theteamsplaying
+Golden State WarriorsOklahoma City Thunder
+1
+Skip Team
+Golden State Warriors
+Found Tm2
+22
+22
+Skip Team
+Oklahoma City Thunder
+Found Tm2
+1
+Tm1 is
+Oklahoma City Thunder
+Tm2 is
+Golden State Warriors
+Teampos1 is NOT 1 so Tm1 is Home
+At line 246 AwayTm is
+Golden State Warriors
+At line 246 HomeTm is
+Oklahoma City Thunder
+checkthis is
+230
+checkthis is gt 100
+checksign is
+-
+checksign is -
+theteamsplaying
+Portland Trail BlazersSan Antonio Spurs
+1
+Skip Team
+Portland Trail Blazers
+Found Tm2
+23
+23
+Skip Team
+San Antonio Spurs
+Found Tm2
+1
+Tm1 is
+San Antonio Spurs
+Tm2 is
+Portland Trail Blazers
+Teampos1 is NOT 1 so Tm1 is Home
+At line 246 AwayTm is
+Portland Trail Blazers
+At line 246 HomeTm is
+San Antonio Spurs
+checkthis is
+223
+checkthis is gt 100
+checksign is
+-
+checksign is -
+theteamsplaying
+Cleveland CavaliersDallas Mavericks
+1
+Skip Team
+Cleveland Cavaliers
+Found Tm2
+20
+20
+Skip Team
+Dallas Mavericks
+Found Tm2
+1
+Tm1 is
+Dallas Mavericks
+Tm2 is
+Cleveland Cavaliers
+Teampos1 is NOT 1 so Tm1 is Home
+At line 246 AwayTm is
+Cleveland Cavaliers
+At line 246 HomeTm is
+Dallas Mavericks
+checkthis is
+215
+checkthis is gt 100
+checksign is
+-
+checksign is -
+theteamsplaying
+Indiana PacersDenver Nuggets
+1
+Skip Team
+Indiana Pacers
+Found Tm2
+15
+15
+Skip Team
+Denver Nuggets
+Found Tm2
+1
+Tm1 is
+Denver Nuggets
+Tm2 is
+Indiana Pacers
+Teampos1 is NOT 1 so Tm1 is Home
+At line 246 AwayTm is
+Indiana Pacers
+At line 246 HomeTm is
+Denver Nuggets
+checkthis is
+213
+checkthis is gt 100
+checksign is
+-
+checksign is -
+theteamsplaying
+Brooklyn NetsUtah Jazz
+1
+Skip Team
+Brooklyn Nets
+Found Tm2
+14
+14
+Skip Team
+Utah Jazz
+Found Tm2
+1
+Tm1 is
+Utah Jazz
+Tm2 is
+Brooklyn Nets
+Teampos1 is NOT 1 so Tm1 is Home
+At line 246 AwayTm is
+Brooklyn Nets
+At line 246 HomeTm is
+Utah Jazz
+checkthis is
+218
+checkthis is gt 100
+checksign is
+-
+checksign is -
+theteamsplaying
+NA
